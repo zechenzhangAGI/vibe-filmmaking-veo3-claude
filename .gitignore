@@ -1,0 +1,33 @@
+# Generated videos and outputs
+output/*.mp4
+output/*.mov
+output/*.avi
+
+# Keep metadata
+!output/generation_metadata.json
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environment - NEVER commit API keys!
+.env
+scripts/.env
+!scripts/.env.example
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

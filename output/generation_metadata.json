@@ -1,0 +1,166 @@
+{
+  "clips": {
+    "test_clip_galileo_4s": {
+      "clip_id": "test_clip_galileo_4s",
+      "prompt": "Galileo Galilei stands at a brass telescope gazing upward at infinite starry night sky in 1610 Tuscany. Wide cinematic establishing shot emphasizing dramatic scale of cosmos above and single human figure below. Period-accurate Renaissance clothing, doublet and robe. Warm golden candlelight from nearby stone villa window illuminates his figure from side, mixing with cool blue starlight from above. His face shows pure wonder and awe looking upward at the heavens. Open Tuscan landscape with rolling hills barely visible in darkness. Camera is static wide shot, allowing the moment to breathe. Shot on 35mm film with warm color grading, Terrence Malick aesthetic. Shallow depth of field with stars in sharp focus and foreground slightly soft. Intimate spiritual moment of discovery between one man and infinite universe. Gentle night wind sounds, distant crickets, soft sound of telescope brass adjusting, breath of wonder. Warm renaissance lute music playing softly in background, period accurate and contemplative.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_clip_galileo_4s.mp4",
+      "video_filename": "test_clip_galileo_4s.mp4",
+      "generated_at": "2025-11-11T16:38:56.503853",
+      "generation_time_seconds": 30
+    },
+    "test_clip_galileo_v3_4s": {
+      "clip_id": "test_clip_galileo_v3_4s",
+      "prompt": "Cinematic wide shot of Galileo at brass telescope gazing upward at infinite starry sky, 1610 Tuscany. Dramatic scale emphasizing vast cosmos above, single human silhouette below. Warm golden candlelight from stone villa window illuminates figure from side, mixing with cool blue starlight. Face shows pure wonder looking at heavens. Open landscape fades into darkness. Static camera, moment breathes. Shot on 35mm film, Terrence Malick aesthetic, warm color grading. Shallow depth of field, stars sharp. Intimate spiritual discovery between one man and universe. Gentle night wind, distant crickets, telescope brass adjustment, breath of wonder, soft contemplative lute music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_clip_galileo_v3_4s.mp4",
+      "video_filename": "test_clip_galileo_v3_4s.mp4",
+      "generated_at": "2025-11-11T16:51:23.122651",
+      "generation_time_seconds": 40
+    },
+    "test_clip_4_breaking_point_4s": {
+      "clip_id": "test_clip_4_breaking_point_4s",
+      "prompt": "Medium shot of person stopping all activity, sitting back defeated. Looking down at hands with exhaustion. Face shows complete resignation. Eyes slowly close. Camera slowly zooms into face. Cut to pure black screen. All sound cuts to silence except slow heavy breathing. Single slow heartbeat. Then complete silence. Hold the powerful silence. Intimate documentary style. Modern environment transforming to pure darkness.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_clip_4_breaking_point_4s.mp4",
+      "video_filename": "test_clip_4_breaking_point_4s.mp4",
+      "generated_at": "2025-11-11T16:57:27.145753",
+      "generation_time_seconds": 60
+    },
+    "test_clip_6_abstract_6s": {
+      "clip_id": "test_clip_6_abstract_6s",
+      "prompt": "Abstract cinematic visualization of discovery. NOT literal UI. Dark blue ink dispersing organically in water representing ideas spreading. Neural network nodes lighting up in golden amber showing connections forming. Mathematical equations appearing and connecting with glowing lines. Data streams flowing like luminous rivers in space. Warm light refracting through prisms. Orchestra brand colors - warm blue and amber gold tones. Fast paced but organic and alive, beautiful flowing. No people, pure visual poetry of discovery. Terrence Malick meets abstract data visualization. Warm electronic ambient music building with hopeful restrained strings. Organic sounds mixed with digital - water flowing, light harmonics, gentle electronic pulses. Building emotion but not bombastic.",
+      "duration": 6,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_clip_6_abstract_6s.mp4",
+      "video_filename": "test_clip_6_abstract_6s.mp4",
+      "generated_at": "2025-11-11T16:59:10.645582",
+      "generation_time_seconds": 100
+    },
+    "test_clip_galileo_v4_animated_4s": {
+      "clip_id": "test_clip_galileo_v4_animated_4s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Gazing upward at stars, static contemplative pose. Style: Paper cut-out animation with layered depth, handmade aesthetic, textured paper layers. Camera: Static wide shot. Composition: Wide shot emphasizing scale - vast cosmos above, small figure below. Focus: Deep focus showing both figure and stars. Ambiance: Warm golden candlelight from window mixing with cool blue starlight, intimate night atmosphere. Audio: Gentle night breeze, distant crickets chirping softly, soft contemplative music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_clip_galileo_v4_animated_4s.mp4",
+      "video_filename": "test_clip_galileo_v4_animated_4s.mp4",
+      "generated_at": "2025-11-11T17:08:54.750530",
+      "generation_time_seconds": 50
+    },
+    "test_style_watercolor_4s": {
+      "clip_id": "test_style_watercolor_4s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Gazing upward at stars, static contemplative pose. Style: Watercolor painting animation, soft flowing brushstrokes, painted texture, artistic hand-painted aesthetic, gentle color bleeding. Camera: Static wide shot. Composition: Wide shot emphasizing scale - vast cosmos above, small figure below. Focus: Soft focus with watercolor texture. Ambiance: Warm golden candlelight from window mixing with cool blue starlight, intimate night atmosphere, painted luminous quality. Audio: Gentle night breeze, distant crickets chirping softly, soft contemplative music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_style_watercolor_4s.mp4",
+      "video_filename": "test_style_watercolor_4s.mp4",
+      "generated_at": "2025-11-11T17:11:36.613447",
+      "generation_time_seconds": 60
+    },
+    "test_style_pencil_4s": {
+      "clip_id": "test_style_pencil_4s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Gazing upward at stars, static contemplative pose. Style: Pencil sketch animation, hand-drawn loose gestural lines, charcoal shading, expressive artistic sketch aesthetic, visible pencil strokes. Camera: Static wide shot. Composition: Wide shot emphasizing scale - vast cosmos above, small figure below. Focus: Sketch-like focus with hand-drawn quality. Ambiance: Warm golden candlelight from window mixing with cool blue starlight, intimate night atmosphere, sketched lighting. Audio: Gentle night breeze, distant crickets chirping softly, soft contemplative music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_style_pencil_4s.mp4",
+      "video_filename": "test_style_pencil_4s.mp4",
+      "generated_at": "2025-11-11T17:14:51.955976",
+      "generation_time_seconds": 190
+    },
+    "test_style_vector_4s": {
+      "clip_id": "test_style_vector_4s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Gazing upward at stars, static contemplative pose. Style: Flat vector animation, clean geometric shapes, modern minimalist design, smooth gradients, Kurzgesagt-inspired aesthetic. Camera: Static wide shot. Composition: Wide shot emphasizing scale - vast cosmos above, small figure below. Focus: Sharp clean vector focus. Ambiance: Warm golden candlelight from window mixing with cool blue starlight, intimate night atmosphere, flat design lighting. Audio: Gentle night breeze, distant crickets chirping softly, soft contemplative music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_style_vector_4s.mp4",
+      "video_filename": "test_style_vector_4s.mp4",
+      "generated_at": "2025-11-11T17:15:23.748729",
+      "generation_time_seconds": 30
+    }
+  },
+  "generation_history": [
+    {
+      "clip_id": "test_clip_galileo_3s",
+      "timestamp": "2025-11-11T16:29:30.557720",
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview:generateVideo"
+    },
+    {
+      "clip_id": "test_clip_galileo_3s",
+      "timestamp": "2025-11-11T16:37:03.641966",
+      "status": "failed",
+      "error": "module 'google.genai.types' has no attribute 'GenerateVideoConfig'"
+    },
+    {
+      "clip_id": "test_clip_galileo_3s",
+      "timestamp": "2025-11-11T16:37:43.463862",
+      "status": "failed",
+      "error": "400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'The number value for `durationSeconds` is out of bound. Please provide a value between 4 and 8, inclusive.', 'status': 'INVALID_ARGUMENT'}}"
+    },
+    {
+      "clip_id": "test_clip_galileo_4s",
+      "timestamp": "2025-11-11T16:38:09.063407",
+      "status": "failed",
+      "error": "400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Resolution 1080p requires duration seconds to be 8 seconds, but got 4', 'status': 'INVALID_ARGUMENT'}}"
+    },
+    {
+      "clip_id": "test_clip_galileo_4s",
+      "timestamp": "2025-11-11T16:38:56.504297",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_clip_galileo_v3_4s",
+      "timestamp": "2025-11-11T16:51:23.122884",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_clip_4_breaking_point_4s",
+      "timestamp": "2025-11-11T16:57:27.145839",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_clip_6_abstract_6s",
+      "timestamp": "2025-11-11T16:59:10.646068",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_clip_galileo_v4_animated_4s",
+      "timestamp": "2025-11-11T17:08:54.751147",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_style_watercolor_4s",
+      "timestamp": "2025-11-11T17:11:36.613995",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_style_pencil_4s",
+      "timestamp": "2025-11-11T17:14:51.956365",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_style_vector_4s",
+      "timestamp": "2025-11-11T17:15:23.748784",
+      "status": "success"
+    }
+  ]
+}
