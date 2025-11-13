@@ -2,11 +2,13 @@
 
 > **Collaborative AI filmmaking: Claude Code + Google Veo 3.1**
 
-![Galileo Cover](Galileo-cover.png)
+[![Galileo Cover](Galileo-cover.png)](https://www.youtube.com/watch?v=-w64vfYWlJI)
 
-An open record of creating Orchestra's "Galileo" launch video through **iterative AI collaboration**. All prompts co-created with Claude Code, all videos generated with Google Veo 3.1. This is vibe-driven filmmaking - where creative vision evolves through conversation with AI.
+### [🎬 Watch the Final Video (1:17)](https://www.youtube.com/watch?v=-w64vfYWlJI)
 
-**🎬 Result:** 42-second manifesto video that traveled from 1610 (Galileo's wonder) to 2025 (infrastructure hell) to the future (science returned to the curious) - all in pencil sketch animation.
+An open record of creating Orchestra's "Galileo" launch video through **iterative AI collaboration**. All prompts co-created with Claude Code, all videos generated with Google Veo 3.1, final edit made in CapCut. This is vibe-driven filmmaking - where creative vision evolves through conversation with AI.
+
+**✨ Final Result:** 1 minute 17 seconds of manifesto storytelling that travels from 1610 (Galileo's wonder) to 2025 (infrastructure hell) to the future (science returned to the curious) - all in pencil sketch animation.
 
 ---
 
@@ -238,6 +240,7 @@ python download_videos.py
 
 - **Creative Partner:** Claude Code (prompt iteration & creative direction)
 - **Video Generation:** Google Veo 3.1 (`veo-3.1-generate-preview`)
+- **Final Edit:** CapCut (assembling clips, text overlays, timing)
 - **Scripts:** Python 3.8+ with `google-generativeai`
 - **Workflow:** Iterative collaboration (human vision + AI capabilities)
 
@@ -250,7 +253,7 @@ python download_videos.py
 - **26 video clips** generated (tests + production)
 - **~850MB** of raw footage
 - **100% prompt collaboration** with Claude Code
-- **42 seconds** final video duration
+- **1:17** final video duration (edited in CapCut)
 
 ---
 
