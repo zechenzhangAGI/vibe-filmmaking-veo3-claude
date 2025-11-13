@@ -95,6 +95,202 @@
       "video_filename": "test_style_vector_4s.mp4",
       "generated_at": "2025-11-11T17:15:23.748729",
       "generation_time_seconds": 30
+    },
+    "test_style_ink_4s": {
+      "clip_id": "test_style_ink_4s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Gazing upward at stars, static contemplative pose. Style: Traditional Chinese ink wash painting animation, flowing black ink, delicate brushwork, minimalist Eastern aesthetic, atmospheric gradients. Camera: Static wide shot. Composition: Wide shot emphasizing scale - vast cosmos above, small figure below. Focus: Soft atmospheric focus with ink wash quality. Ambiance: Warm golden candlelight from window mixing with cool blue starlight, intimate night atmosphere, misty ink wash atmosphere. Audio: Gentle night breeze, distant crickets chirping softly, soft contemplative music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_style_ink_4s.mp4",
+      "video_filename": "test_style_ink_4s.mp4",
+      "generated_at": "2025-11-11T17:17:37.721614",
+      "generation_time_seconds": 130
+    },
+    "test_style_3d_cartoon_4s": {
+      "clip_id": "test_style_3d_cartoon_4s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Gazing upward at stars, static contemplative pose. Style: 3D cartoon animation, Pixar-inspired aesthetic, soft lighting, appealing character design, warm stylized rendering. Camera: Static wide shot. Composition: Wide shot emphasizing scale - vast cosmos above, small figure below. Focus: Cinematic 3D focus with depth of field. Ambiance: Warm golden candlelight from window mixing with cool blue starlight, intimate night atmosphere, cinematic 3D lighting. Audio: Gentle night breeze, distant crickets chirping softly, soft contemplative music.",
+      "duration": 4,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/test_style_3d_cartoon_4s.mp4",
+      "video_filename": "test_style_3d_cartoon_4s.mp4",
+      "generated_at": "2025-11-11T17:19:41.624697",
+      "generation_time_seconds": 120
+    },
+    "v5_test_clip_1_galileo_8s": {
+      "clip_id": "v5_test_clip_1_galileo_8s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Looking through telescope eyepiece, then slowly lifting head upward to gaze at stars with wonder, subtle head tilt, contemplative breathing. Style: Pencil sketch animation, hand-drawn loose gestural lines, charcoal shading, expressive artistic sketch aesthetic, visible pencil strokes, animated drawing quality. Camera: Slow dolly in from wide to medium shot, gentle camera push emphasizing intimacy. Composition: Starting wide shot emphasizing scale - vast cosmos above small figure below, ending medium shot showing face. Focus: Sketch-like focus with hand-drawn quality, stars sketched with radiating lines. Ambiance: Warm golden candlelight from stone villa window mixing with cool blue starlight, intimate night atmosphere, sketched light rays. Audio: Gentle night breeze, distant crickets chirping softly, telescope adjusting, breath of wonder, soft contemplative music building.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/v5_test_clip_1_galileo_8s.mp4",
+      "video_filename": "v5_test_clip_1_galileo_8s.mp4",
+      "generated_at": "2025-11-11T21:04:07.537925",
+      "generation_time_seconds": 180
+    },
+    "v5_test_clip_3a_terminal_8s": {
+      "clip_id": "v5_test_clip_3a_terminal_8s",
+      "prompt": "Subject: Computer terminal screen with error messages and hands typing. Action: Hands typing frantically, error text scrolling rapidly upward, hands hitting keys harder with frustration, finally hands stopping and pulling back. Style: Pencil sketch animation, bold sketchy lines for text and hands, dynamic gestural drawing. Camera: Slow push in on screen, then slight shake conveying frustration. Composition: Extreme close-up of terminal screen with hands at bottom. Focus: Sharp sketch focus on error text and hand movements. Ambiance: Cold blue screen glow sketched with hatching, dark moody atmosphere with heavy shading. Audio: Rapid error beeps, keyboard typing frantically getting louder, frustrated exhale, low piano note begins.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/v5_test_clip_3a_terminal_8s.mp4",
+      "video_filename": "v5_test_clip_3a_terminal_8s.mp4",
+      "generated_at": "2025-11-11T21:07:13.339630",
+      "generation_time_seconds": 180
+    },
+    "v5_test_clip_4_breaking_8s": {
+      "clip_id": "v5_test_clip_4_breaking_8s",
+      "prompt": "Subject: Person at desk working. Action: Typing slows then stops completely, hands lift from keyboard, person sits back heavily in chair, looks down at hands turning them over, eyes close slowly, head drops slightly, then fade to pure black screen. Style: Pencil sketch animation, loose emotional gestural lines, charcoal shading showing exhaustion, expressive hand-drawn vulnerability, sketch lines fading to black. Camera: Slow zoom from medium shot to intimate close-up on face showing defeat, smooth continuous push in, then cut to black. Composition: Medium shot transitioning to close-up portrait, ending in darkness. Focus: Shallow sketch focus on face with background fading, emotional pencil work. Ambiance: Harsh overhead lighting sketched with hard lines fading to pure black, darkness consuming the frame. Audio: Typing slowing down, keyboard final key press, chair creaking as lean back, all sound cutting to silence except slow heavy breathing, single heartbeat, then complete powerful silence.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/v5_test_clip_4_breaking_8s.mp4",
+      "video_filename": "v5_test_clip_4_breaking_8s.mp4",
+      "generated_at": "2025-11-11T21:09:47.900997",
+      "generation_time_seconds": 150
+    },
+    "scene_1_galileo_720p_8s": {
+      "clip_id": "scene_1_galileo_720p_8s",
+      "prompt": "Subject: Galileo figure at telescope under starry night sky. Action: Looking through telescope eyepiece, then slowly lifting head upward to gaze at stars with wonder, subtle head tilt, contemplative breathing. Style: Pencil sketch animation, hand-drawn loose gestural lines, charcoal shading, expressive artistic sketch aesthetic, visible pencil strokes, animated drawing quality. Camera: Slow dolly in from wide to medium shot, gentle camera push emphasizing intimacy. Composition: Starting wide shot emphasizing scale - vast cosmos above small figure below, ending medium shot showing face. Focus: Sketch-like focus with hand-drawn quality, stars sketched with radiating lines. Ambiance: Warm golden candlelight from stone villa window mixing with cool blue starlight, intimate night atmosphere, sketched light rays. Audio: Gentle night breeze, distant crickets chirping softly, telescope adjusting, breath of wonder, soft contemplative music building.",
+      "duration": 8,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_1_galileo_720p_8s.mp4",
+      "video_filename": "scene_1_galileo_720p_8s.mp4",
+      "generated_at": "2025-11-11T22:11:59.712144",
+      "generation_time_seconds": 80
+    },
+    "scene_1b_720p": {
+      "clip_id": "scene_1b_720p",
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_1b_720p.mp4",
+      "video_filename": "scene_1b_720p.mp4",
+      "resolution": "720p",
+      "duration": 8,
+      "aspect_ratio": "16:9"
+    },
+    "scene_2_match_cut_720p_8s": {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "prompt": "Subject: Modern researcher's hand writing in physical notebook at desk, surrounded by bureaucratic institutional laboratory setting\nAction: Close-up on hand writing data into lined notebook with pen (directly mirroring Galileo's sketching hand gesture and composition), filling out forms and recording routine observations methodically, camera slowly pulls back revealing researcher at desk in sterile institutional laboratory, multiple identical desks visible with other researchers in lab coats doing similar repetitive paperwork tasks, all heads down filling forms and clipboards, researcher pauses writing to look up at institutional clock on wall showing late hour, glances around at rows of colleagues doing identical tasks, returns to form-filling with resigned mechanical motion, no joy or discovery - pure bureaucratic routine\nStyle: Pencil sketch animation maintaining identical hand-drawn aesthetic from previous scene, sketchy lines for modern institutional architecture and equipment, charcoal shading creating harsh shadows under cold fluorescent lights, visible pencil strokes showing repetitive patterns and institutional conformity, hand-drawn quality emphasizing loss of individuality\nCamera: Opens with exact same tight composition on hand writing in notebook as previous scene's sketching hands, slow steady pull back revealing first the researcher, then progressively more of the crowded institutional space with many identical workstations, settles on wide shot showing rows of researchers doing identical bureaucratic tasks\nComposition: Opening frame precisely mirrors Galileo's hand sketching in notebook - same angle, same gesture of hand with writing instrument and notebook, camera reveals the devastating contrast as it pulls back showing institutional uniformity replacing individual discovery, same pencil sketch visual language but with oppressive repetitive patterns and darker shading\nFocus: Sharp sketch focus on hand writing data in notebook, transitions to split focus showing both individual researcher and the crowd of identical workers, hand-drawn quality emphasizes dehumanization through institutional conformity and loss of personal discovery\nAmbiance: Cold blue-white fluorescent tube lighting sketched with harsh parallel hatching lines creating oppressive uniform overhead illumination, no warmth or candlelight - only sterile institutional brightness, heavy shadows under desks and equipment, claustrophobic despite large open laboratory floor, institutional clock prominent on wall, beige walls and gray desks, atmosphere of bureaucratic conformity\nAudio: Pen scratching on paper (mechanical, repetitive - contrasts with Galileo's excited sketching), rustling of forms and clipboards, fluorescent lights buzzing overhead in steady hum, institutional clock ticking loudly, multiple pens writing simultaneously creating rhythmic repetitive sound, papers shuffling, chairs creaking, muffled institutional announcements, HVAC system steady drone, no music - just bureaucratic ambient sound creating atmosphere of routine drudgery, complete contrast to previous scene's organic warmth and joyful discovery",
+      "duration": 8,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": "scene_1b_720p",
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_2_match_cut_720p_8s.mp4",
+      "video_filename": "scene_2_match_cut_720p_8s.mp4",
+      "generated_at": "2025-11-12T02:06:37.958512",
+      "generation_time_seconds": 80
+    },
+    "scene_3_combined_montage_1080p_8s": {
+      "clip_id": "scene_3_combined_montage_1080p_8s",
+      "prompt": "Subject: Computer screens and desk workspace showing cascading digital frustrations through expanding split-screen panels\nAction: Opens extreme close-up on single terminal screen with red error messages scrolling rapidly, hands typing frantically at bottom edge entering commands desperately. At 2 seconds, screen SPLITS vertically - left panel continues terminal errors, right panel reveals browser with 47 tabs visible and cursor scrolling frantically through PDFs and papers. At 3 seconds, splits into 4-panel grid: top-left terminal errors persist, top-right browser chaos continues, bottom-left GPU queue appears showing \"Position 89 | Wait: 14 hours\" with cursor clicking refresh button repeatedly, bottom-right environment setup terminal with \"pip install\", \"conda create\", \"ModuleNotFoundError\" cascading. At 5 seconds, expands to 6 panels adding fifth panel with email inbox showing \"ACCESS DENIED\", \"INSUFFICIENT CREDENTIALS\", \"Grant Request: DENIED\" messages with cursor clicking through rejections hopelessly, sixth panel shows overhead view of desk with tall paper stacks, scattered documents, notebook buried under papers, hands shuffling papers helplessly. Final 2 seconds all 6 panels active simultaneously in chaotic motion - typing, scrolling, clicking, refreshing, papers rustling - building to crescendo, then hands in terminal panel suddenly stop typing and pull back slowly in surrender, other hands cease motion, cursors stop, stillness spreads across all panels showing defeat.\nStyle: Pencil sketch animation throughout all panels, bold sketchy lines for text and interface elements, dynamic gestural hand-drawn quality, progressive visual intensity with heavier charcoal shading as panels multiply, expressive chaotic line work, visible aggressive pencil strokes creating mounting overwhelming tension, each panel maintains consistent hand-drawn aesthetic\nCamera: Opens tight extreme close-up on single screen establishing intimacy with problem, holds steady as panels split and multiply creating expanding visual field, subtle slow zoom out in final 2 seconds revealing full 6-panel grid scope, smooth continuous framing capturing all panel activity simultaneously\nComposition: Begins single full-frame terminal screen, progressively splits into organized grid (1\u21922 vertical split\u21924 grid\u21926 panels), clear sketched panel borders separating each frustration, balanced grid layout with equal panel sizes, ending wide enough to show complete 6-panel array with all activity visible, visual progression from focused to fragmented to overwhelming\nFocus: Sharp sketch focus on text, hands, and cursors within each panel as it appears and activates, all panels remain in focus showing simultaneous chaos, hand-drawn details clear in typing hands and error messages, energetic sketch line work maintains clarity despite mounting visual complexity\nAmbiance: Cold blue screen glows sketched with harsh cross-hatching emanating from all monitor panels, multiple overlapping blue light sources creating oppressive multi-directional illumination, dark shadows between panels sketched with heavy charcoal, claustrophobic atmosphere of being surrounded by glowing failure screens, fluorescent overhead lighting sketched with parallel hatching lines adding cold institutional quality, papers in sixth panel lit by harsh overhead creating deep shadows\nAudio: Terminal error beeps rapid and persistent, frantic keyboard typing accelerating, browser panel adds mouse clicking frantically and scrolling sounds, GPU queue adds repetitive refresh click and ominous clock ticking, environment terminal adds aggressive keyboard mashing and error beep acceleration, email panel adds disappointing notification dings repeating, paper panel adds heavy rustling and stack shifting sounds - ALL AUDIO SOURCES LAYERING SIMULTANEOUSLY building to oppressive cacophony of failure sounds, fluorescent lights buzzing steadily underneath everything, building to peak chaos then sudden shift to isolated typing slowing, final key press, silence spreading as motion stops, just fluorescent buzz and breathing remaining",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3_combined_montage_1080p_8s.mp4",
+      "video_filename": "scene_3_combined_montage_1080p_8s.mp4",
+      "generated_at": "2025-11-12T02:35:15.436271",
+      "generation_time_seconds": 310
+    },
+    "scene_3a_terminal_errors_1080p_8s": {
+      "clip_id": "scene_3a_terminal_errors_1080p_8s",
+      "prompt": "Subject: Computer terminal screen with error messages and hands typing. Action: Hands typing frantically, error text scrolling rapidly upward, hands hitting keys harder with frustration, finally hands stopping and pulling back. Style: Pencil sketch animation, bold sketchy lines for text and hands, dynamic gestural drawing. Camera: Slow push in on screen, then slight shake conveying frustration. Composition: Extreme close-up of terminal screen with hands at bottom. Focus: Sharp sketch focus on error text and hand movements. Ambiance: Cold blue screen glow sketched with hatching, dark moody atmosphere with heavy shading. Audio: Rapid error beeps, keyboard typing frantically getting louder, frustrated exhale, low piano note begins.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3a_terminal_errors_1080p_8s.mp4",
+      "video_filename": "scene_3a_terminal_errors_1080p_8s.mp4",
+      "generated_at": "2025-11-12T02:48:29.666401",
+      "generation_time_seconds": 480
+    },
+    "scene_3b_literature_1080p_8s": {
+      "clip_id": "scene_3b_literature_1080p_8s",
+      "prompt": "Subject: Person at laptop with many browser tabs and papers. Action: Hands scrolling frantically through papers on screen, head shaking slightly in overwhelm, hand rubbing forehead in stress. Style: Pencil sketch animation, sketchy chaotic lines for papers and tabs, expressive gestural drawing. Camera: Slow push in on overwhelmed face. Composition: Medium shot of person and screen with papers. Focus: Sharp sketch focus on chaos with energetic line work. Ambiance: Cold blue laptop light sketched with hatching, overwhelming atmosphere with heavy shading. Audio: Frantic clicking, rapid scrolling, paper rustling sounds, frustrated breathing.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3b_literature_1080p_8s.mp4",
+      "video_filename": "scene_3b_literature_1080p_8s.mp4",
+      "generated_at": "2025-11-12T02:59:33.429070",
+      "generation_time_seconds": 590
+    },
+    "scene_3c_gpu_queue_1080p_8s": {
+      "clip_id": "scene_3c_gpu_queue_1080p_8s",
+      "prompt": "Subject: Laptop screen showing queue status with person's face. Action: Cursor hovering then clicking refresh repeatedly, face in reflection showing increasing disappointment, person sighing and head dropping. Style: Pencil sketch animation, clean sketched interface, emotional face drawing. Camera: Static tight close-up, slight drift in showing resignation. Composition: Close-up of screen with face reflection prominent. Focus: Sharp sketch focus on queue text and reflected face. Ambiance: Cold blue screen glow sketched, dark room with deep shadows. Audio: Mouse clicking repeatedly, queue ticking sound, disappointed heavy sigh, clock ticking ominously.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3c_gpu_queue_1080p_8s.mp4",
+      "video_filename": "scene_3c_gpu_queue_1080p_8s.mp4",
+      "generated_at": "2025-11-12T03:03:28.522853",
+      "generation_time_seconds": 170
+    },
+    "scene_3d_environment_1080p_8s": {
+      "clip_id": "scene_3d_environment_1080p_8s",
+      "prompt": "Subject: Hands typing terminal commands with errors. Action: Rapid aggressive typing, errors appearing, typing becoming more frantic, hands suddenly stopping and pulling back in frustration. Style: Pencil sketch animation, bold energetic lines for typing motion, sketchy error text. Camera: Close-up on hands and screen, slight camera shake with frustration. Composition: Close-up of hands and terminal screen. Focus: Sharp sketch focus on typing action and errors. Ambiance: Cold fluorescent lighting sketched with harsh lines. Audio: Keyboard mashing intensifying, error beeps accelerating, frustrated exhale loudly.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3d_environment_1080p_8s.mp4",
+      "video_filename": "scene_3d_environment_1080p_8s.mp4",
+      "generated_at": "2025-11-12T03:07:13.489005",
+      "generation_time_seconds": 160
+    },
+    "scene_3e_permission_denied_1080p_8s": {
+      "clip_id": "scene_3e_permission_denied_1080p_8s",
+      "prompt": "Subject: Email inbox with rejection messages. Action: Mouse clicking through emails opening each rejection, scrolling through denials, cursor hovering sadly, person's hand moving to close laptop slowly. Style: Pencil sketch animation, clean sketched UI, emotional hand drawing. Camera: Static close-up with slight slow zoom out showing isolation. Composition: Close-up of screen transitioning to show person's defeated posture. Focus: Sharp sketch focus on rejection text. Ambiance: Cold blue interface light sketched, oppressive atmosphere. Audio: Disappointing notification dings repeating, mouse clicks, heavy defeated sigh, silence building.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3e_permission_denied_1080p_8s.mp4",
+      "video_filename": "scene_3e_permission_denied_1080p_8s.mp4",
+      "generated_at": "2025-11-12T03:16:15.611917",
+      "generation_time_seconds": 470
+    },
+    "scene_3f_buried_papers_1080p_8s": {
+      "clip_id": "scene_3f_buried_papers_1080p_8s",
+      "prompt": "Subject: Person at desk surrounded by tall paper stacks. Action: Person visible initially then camera reveals more papers, final paper stack added obscuring person completely, only hands visible shuffling papers helplessly. Style: Pencil sketch animation, layered sketched paper stacks with texture, expressive overwhelm drawing. Camera: Slow pull back revealing full extent of paper mountains. Composition: Wide shot emphasizing overwhelming paper dominance over person. Focus: Deep sketch focus showing paper stack depth and person buried. Ambiance: Cold fluorescent overhead lighting sketched with harsh shadows, oppressive isolated atmosphere. Audio: Papers rustling heavily, stacks shifting, overwhelming silence underneath, sense of being buried sonically.",
+      "duration": 8,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "extend_from": null,
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_3f_buried_papers_1080p_8s.mp4",
+      "video_filename": "scene_3f_buried_papers_1080p_8s.mp4",
+      "generated_at": "2025-11-12T03:19:09.556482",
+      "generation_time_seconds": 110
+    },
+    "scene_5_light_720p": {
+      "clip_id": "scene_5_light_720p",
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/5_light.mp4",
+      "video_filename": "5_light.mp4",
+      "resolution": "720p",
+      "duration": 8,
+      "aspect_ratio": "16:9"
+    },
+    "scene_6_collective_awakening_720p_8s": {
+      "clip_id": "scene_6_collective_awakening_720p_8s",
+      "prompt": "Subject: Same person from previous scene with additional people emerging alongside in darkness\nAction: Continuing from previous scene, original person's face now fully illuminated by warm golden amber light from below with eyes open showing recognition and slight forward lean, camera holds on this person maintaining same intimate close-up framing. As camera stays on original person, warm lights begin glowing in darkness to the left and right sides - more faces emerging from black background alongside the original person. Second face appears in darkness to left with warm light beginning to glow from below illuminating features, eyes closed then slowly flutter open with hope. Third face emerges to right in darkness with warm light growing from below, eyes opening with curiosity. Fourth and fifth faces appear further in background darkness on both sides, each with their own warm light from below beginning to illuminate, eyes opening one by one. All faces remain in frame together - original person centered in foreground still lit, new people emerging in darkness around them at different depths creating sense of community forming. Original person stays constant anchor while others join the awakening around them in same darkness and warm light aesthetic.\nStyle: Pencil sketch animation, sketchy lines emerging from darkness exactly matching Scene 5 style, warm light drawn with soft flowing lines illuminating each face from below, emotional transformation visible in loose expressive drawing, charcoal darkness surrounding all figures, same hand-drawn aesthetic maintained throughout\nCamera: Intimate close-up on original person's face maintained from previous scene, slight slow pull back revealing more space as additional faces emerge in darkness around them, gentle camera movement emphasizing community forming while keeping original person as anchor\nComposition: Close-up portrait of original person centered in foreground, additional faces appearing in darkness at different depths around them creating layered composition, faces emerging from pure black into warm light\nFocus: Shallow sketch focus on faces with warm light sketched with soft radiating lines, background darkness remains deep black with heavy charcoal, same luminous quality from Scene 5 maintained\nAmbiance: Pure black transforming to multiple warm golden amber lights from below like Caravaggio, hope sketched with luminous quality exactly matching Scene 5, light painted with warm flowing strokes, multiple points of warm light emerging in darkness creating constellation of hope\nAudio: Soft electronic hum continues, breath becoming lighter and hopeful with additional breathing sounds layering as more people emerge, piano notes building, warm ambient pad with strings swelling gently, sense of collective awakening building, movement forming",
+      "duration": 8,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "extend_from": "scene_5_light_720p",
+      "video_path": "/Users/zechenzhang/Orchestra Dev/agent-board/veo-3-generation/output/scene_6_collective_awakening_720p_8s.mp4",
+      "video_filename": "scene_6_collective_awakening_720p_8s.mp4",
+      "generated_at": "2025-11-12T16:47:54.693530",
+      "generation_time_seconds": 70
     }
   },
   "generation_history": [
@@ -160,6 +356,157 @@
     {
       "clip_id": "test_style_vector_4s",
       "timestamp": "2025-11-11T17:15:23.748784",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_style_ink_4s",
+      "timestamp": "2025-11-11T17:17:37.722096",
+      "status": "success"
+    },
+    {
+      "clip_id": "test_style_3d_cartoon_4s",
+      "timestamp": "2025-11-11T17:19:41.625214",
+      "status": "success"
+    },
+    {
+      "clip_id": "v5_test_clip_1_galileo_8s",
+      "timestamp": "2025-11-11T21:04:07.538178",
+      "status": "success"
+    },
+    {
+      "clip_id": "v5_test_clip_3a_terminal_8s",
+      "timestamp": "2025-11-11T21:07:13.340786",
+      "status": "success"
+    },
+    {
+      "clip_id": "v5_test_clip_4_breaking_8s",
+      "timestamp": "2025-11-11T21:09:47.901546",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_1b_discovery_joy_8s",
+      "timestamp": "2025-11-11T22:01:29.120462",
+      "status": "failed",
+      "error": "Unknown mime type: Could not determine the mimetype for your file\n please set the `mime_type` argument"
+    },
+    {
+      "clip_id": "scene_1b_discovery_joy_8s",
+      "timestamp": "2025-11-11T22:01:57.447843",
+      "status": "failed",
+      "error": "upload() got an unexpected keyword argument 'mime_type'"
+    },
+    {
+      "clip_id": "scene_1b_discovery_joy_8s",
+      "timestamp": "2025-11-11T22:03:06.695678",
+      "status": "failed",
+      "error": "module 'google.genai.types' has no attribute 'RawFile'"
+    },
+    {
+      "clip_id": "scene_1_galileo_720p_8s",
+      "timestamp": "2025-11-11T22:11:59.712594",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:08:19.111425",
+      "status": "failed",
+      "error": "upload() got an unexpected keyword argument 'path'"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:08:40.008196",
+      "status": "failed",
+      "error": "Unknown mime type: Could not determine the mimetype for your file\n please set the `mime_type` argument"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:08:58.165270",
+      "status": "failed",
+      "error": "upload() got an unexpected keyword argument 'mime_type'"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:13:51.998062",
+      "status": "failed",
+      "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:18:11.413665",
+      "status": "failed",
+      "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:25:45.945732",
+      "status": "failed",
+      "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:26:42.871356",
+      "status": "failed",
+      "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T01:29:17.314467",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_2_match_cut_720p_8s",
+      "timestamp": "2025-11-12T02:06:37.958809",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3_combined_montage_1080p_8s",
+      "timestamp": "2025-11-12T02:35:15.437300",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3a_terminal_errors_1080p_8s",
+      "timestamp": "2025-11-12T02:48:29.666628",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3b_literature_1080p_8s",
+      "timestamp": "2025-11-12T02:59:33.429548",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3c_gpu_queue_1080p_8s",
+      "timestamp": "2025-11-12T03:03:28.523908",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3d_environment_1080p_8s",
+      "timestamp": "2025-11-12T03:07:13.489163",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3e_permission_denied_1080p_8s",
+      "timestamp": "2025-11-12T03:16:15.612344",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_3f_buried_papers_1080p_8s",
+      "timestamp": "2025-11-12T03:19:09.556704",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_6_collective_awakening_720p_8s",
+      "timestamp": "2025-11-12T16:37:13.805892",
+      "status": "failed",
+      "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. ', 'status': 'RESOURCE_EXHAUSTED'}}"
+    },
+    {
+      "clip_id": "scene_6_collective_awakening_720p_8s",
+      "timestamp": "2025-11-12T16:41:39.312400",
+      "status": "success"
+    },
+    {
+      "clip_id": "scene_6_collective_awakening_720p_8s",
+      "timestamp": "2025-11-12T16:47:54.693752",
       "status": "success"
     }
   ]

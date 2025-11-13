@@ -17,7 +17,10 @@ __pycache__/
 # Environment - NEVER commit API keys!
 .env
 scripts/.env
-!scripts/.env.example
+scripts/core/.env
+scripts/experiments/.env
+scripts/production/.env
+!scripts/core/.env.example
 .venv
 env/
 venv/
