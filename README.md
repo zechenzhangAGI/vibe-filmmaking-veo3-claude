@@ -337,7 +337,7 @@ pip install -r scripts/core/requirements.txt
 
 ## 🔗 Links
 
-- **Orchestra:** [orchestra.art](https://orchestra.art) *(update with real URL)*
+- **Orchestra:** [orchestra.art](https://orchestra-research.com) 
 - **Veo 3.1 API:** https://ai.google.dev/models/veo
 - **Claude Code:** https://claude.com/claude-code
 - **Get Started:** https://ai.google.dev/
