@@ -2,7 +2,7 @@
 
 > **Collaborative AI filmmaking: Claude Code + Google Veo 3.1**
 
-[![Galileo Cover](Galileo-cover.png)](https://www.youtube.com/watch?v=-w64vfYWlJI)
+[![Galileo Cover](Galileo-cover.png)](https://www.youtube.com/watch?v=BPOW0qew_gQ)
 
 ### [🎬 Watch the Final Video (1:17)](https://www.youtube.com/watch?v=-w64vfYWlJI)
 
